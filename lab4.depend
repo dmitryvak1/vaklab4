@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1590140980 source:d:\vakin\учёба\языки програмирования\2 семестр си++\lab4\file2.cpp
+	"lib.h"
+
+1590151919 source:d:\vakin\учёба\языки програмирования\2 семестр си++\lab4\main.cpp
+	"lib.h"
+
+1590151927 d:\vakin\учёба\языки програмирования\2 семестр си++\lab4\lib.h
+	<iostream>
+	<windows.h>
+
