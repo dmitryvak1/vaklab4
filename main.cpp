@@ -36,7 +36,7 @@ int main() {
 
     obj.Print();
     cout <<"\n"<< endl;
-    cout<<obj.Size()<<endl;
+    cout<<obj.Size()<<" - chislo elementov"<<endl;
     cout <<"\n"<< endl;
 
 	obj.Clear();
