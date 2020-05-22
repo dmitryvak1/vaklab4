@@ -139,18 +139,9 @@ public:
 			count--;
 		}
 	}
-void Pop() { //производим выборку
-		if (Head == -1) {
-			cout << "Stack пуст!" << endl;
-			return;
-		} else {
-			Head = 0;
-			--Head;
-		}
-	}
 	int Size()
 	{
-	    cout<<"kolichestvo elementov    "<< count<<endl;
+	    return count;
 	}
 };
 

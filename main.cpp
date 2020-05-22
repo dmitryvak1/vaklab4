@@ -36,7 +36,7 @@ int main() {
 
     obj.Print();
     cout <<"\n"<< endl;
-    obj.Size();
+    cout<<obj.Size()<<endl;
     cout <<"\n"<< endl;
 
 	obj.Clear();
